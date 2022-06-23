@@ -1,0 +1,12 @@
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\bin\Debug\RefactorMe.exe.config
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\bin\Debug\RefactorMe.exe
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\bin\Debug\RefactorMe.pdb
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\bin\Debug\nunit.framework.dll
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\Risovatel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\Risovatel.csproj.GenerateResource.cache
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\RefactorMe.exe
+C:\Users\Roman Frolov\Downloads\Risovatel.csproj1\obj\Debug\RefactorMe.pdb
